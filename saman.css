@@ -298,7 +298,7 @@ img {
 
 /* Box Components */
 div.box1, div.box2 {
-    width: 100%;
+
     max-width: 800px;
     padding: 20px;
     background: #1C1C1E;
@@ -391,7 +391,7 @@ div.socials {
 
 div.box1{
     text-align: center;
-    width: 90%;
+
     display: inline-flex;
     padding: 48px;
     flex-direction: column;
